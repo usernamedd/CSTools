@@ -9,6 +9,8 @@ namespace _String
     {
         static void Main(string[] args)
         {
+            //
+            Console.ReadLine();
         }
     }
 }
